@@ -181,7 +181,7 @@ This is an academic repository. If you find issues or have suggestions:
 - **Random Seed:** Notebooks use `random.seed(100)` for reproducibility
 
 ## 📧 Contact
-
+**Email:** atanzil223028@bscse.uiu.ac.bd
 **Student ID:** 012230028  
 **Repository:** [ai-tanzil811/Assignment](https://github.com/ai-tanzil811/Assignment)
 
